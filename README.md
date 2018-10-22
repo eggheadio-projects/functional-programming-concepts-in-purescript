@@ -91,3 +91,4 @@ If `10!` is outputted purescript is ready to be used locally!
 
 In lesson 10, all instances of `id` need to be changed to `identity`. This change was made as of [purescript-prelude version 4.0.0](https://github.com/purescript/purescript-prelude/releases/tag/v4.0.0). 
 
+The online editor is using purescript-prelude version number 3.1.0. However, the latest version is 4.1.0. The only change that is breaking the code in this lesson is that id was renamed to identity. 
