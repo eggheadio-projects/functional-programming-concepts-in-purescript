@@ -16,7 +16,9 @@ Setup a project directory and open it in your terminal.
 Run the following three commands. 
 
   > pulp init
+
   > pulp build
+
   > pulp run
 
 if its working it should print "Hello sailor!" in the console.
@@ -24,6 +26,7 @@ if its working it should print "Hello sailor!" in the console.
 Now we need to install some packages he uses for this course:
 
   > bower install purescript-arrays
+  
   > bower install purescript-lists
 
 Now compile it with pulp build:
